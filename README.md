@@ -43,9 +43,13 @@ $ cd gobarber-web
 
 # Install dependencies
 $ yarn
+or
+$ npm install
 
 # Run the app
 $ yarn start
+or
+$ npm start
 ```
 
 ## :memo: License
